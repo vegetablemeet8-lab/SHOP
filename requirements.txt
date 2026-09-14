@@ -1,0 +1,1 @@
+# Desktop launcher uses Python standard library only.
